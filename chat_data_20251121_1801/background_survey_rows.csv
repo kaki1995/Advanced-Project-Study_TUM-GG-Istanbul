@@ -1,0 +1,92 @@
+id,participant_id,submitted_at,q1_age_group,q2_gender,q3_education,q4_employment,q5_nationality,q6_residence,q7_chatbot_familiarity,q8_data_quality,q9_chatbot_usage,q10_search_tools
+8e250286-faa0-49b3-a1a4-1406c71e8a9c,fe4a79bb-642e-49d8-920a-a5f39035ffe3,2025-11-20 16:23:00.392222+00,18-24,Female,High school or below,Student,Indo,China,7,1,More than 10 times,tiktok
+f473691a-6c60-48ad-b6d8-915ba83c0787,151939c4-8aae-490b-92eb-c7d353a4a95c,2025-11-18 18:17:10.869409+00,35-44,Male,Master's degree,Employed,Iranian,Deutschland,5,1,More than 10 times,Google
+1117999f-f29a-4dbc-9008-bf9fdc9c373a,151939c4-8aae-490b-92eb-c7d353a4a95c,2025-11-18 18:17:05.061733+00,35-44,Male,Master's degree,Employed,Iranian,Deutschland,5,1,More than 10 times,Goodgle
+9f1725f2-0e2b-46d6-a956-9081d0d37c6a,5c4cab45-aeba-4c55-a4c4-6b227b569474,2025-11-17 17:12:33.53304+00,18-24,Female,Bachelor's degree,Student,German,Germany,6,1,More than 10 times,"Google, Amazon, BestSecret "
+aaa85758-33f8-457f-a614-5c70d54acb53,2bc7c0dd-423b-4c5c-bbff-fd89aa61ae8a,2025-11-16 19:56:55.964839+00,25-34,Female,Master's degree,Employed,Pakistan,Pakistan,5,6,3-5 times,Pakistan
+d2dc78e5-c90a-4f83-9d49-0a5d3a81a298,e2f70344-8588-468c-9dc2-8c2993f5b6c9,2025-11-15 23:29:47.088239+00,18-24,Female,Bachelor's degree,Student,Nederland,Nederland,6,1,More than 10 times,Nederland
+5e53b3d1-d72b-4ce6-b4ab-0d7bf28a2453,82e40cf7-aadd-46a9-a1b5-f68aed30f6af,2025-11-15 06:39:15.015137+00,Under 18,Male,High school or below,Student,United States,United States,5,1,3-5 times,Amazon
+fe8767a2-1665-4961-8151-dad216ba174e,233c60f2-995c-4779-970d-dbbbd7c1da52,2025-11-14 23:13:50.927987+00,18-24,Female,High school or below,Student,Rwandan,Spain,7,1,6-10 times,Amazon
+70d8ba5e-a0e3-4be8-a36f-2dfdd5ab4c30,88584cfe-a550-4209-a1f3-be628bb2647b,2025-11-13 16:30:20.934922+00,35-44,Male,Master's degree,Self-employed,French,rance,7,1,More than 10 times,Google Search
+23f4c16c-3024-4964-883d-15b371d5d756,25e47297-047a-4582-bc17-c13f5b2ef07b,2025-11-13 12:55:37.488309+00,18-24,Female,Bachelor's degree,Student,Georgian,Germany,7,1,1-2 times,Amazon
+fe9a9ba2-2b57-452a-93d6-450477e2ba03,f668df6c-a949-40d0-8ff9-840a65e676a2,2025-11-12 20:50:08.025982+00,25-34,Female,Doctorate / PhD,Student,Canadian,USA,6,1,6-10 times,"Price comparison, research"
+22412599-f7f2-4274-b4f5-3a9e0be29bc4,76ca052a-413b-426f-bf8e-5bc80d00c05a,2025-11-12 20:13:00.922185+00,45-54,Male,Master's degree,Employed,United Kingdom,United Kingdom,6,1,More than 10 times,Google
+8aeb11b4-34f8-4861-9e3c-f6facc59de58,eb2efe5b-53d6-4751-9ba5-2004d1234e28,2025-11-12 15:36:12.880603+00,25-34,Female,Master's degree,Employed,Irish,Netherlands,6,1,3-5 times,Asos
+96803cb4-1f40-47e9-8f06-87889c49f926,a2f337f1-7cd4-4cab-9cbc-1b360cc6aed2,2025-11-12 02:11:22.433433+00,18-24,Non-binary / Diverse,High school or below,Student,American,United States of America,5,1,6-10 times,Amazon
+bcec31a9-e9f6-4a36-80b5-42ba7d322c0a,b5a7af15-f889-4b20-b58c-192fe764f0b6,2025-11-11 18:50:42.783564+00,25-34,Male,Master's degree,Employed,Italian,Italy,7,1,More than 10 times,Google
+b28a1631-03c6-4deb-8271-06054aee2c2c,d7c7e6ac-408e-462d-8c9a-5f27b58b5aa8,2025-11-11 15:59:57.840036+00,18-24,Female,High school or below,Student,Slovak,belgium,6,1,More than 10 times,"google, amazon, temu, shein"
+e398ecf5-22ce-41a3-9b6d-5931ef66081a,0ba4f0a8-673f-4054-80e0-690aaf497b51,2025-11-11 03:08:07.187937+00,Under 18,Female,High school or below,Student,Canada,Canada,6,1,6-10 times,Google
+c7567ac7-5e5e-400d-bd85-bcd44fe76852,548569b2-6aeb-4403-9dfe-4b84cd9cbf25,2025-11-10 22:30:31.193024+00,18-24,Female,Master's degree,Employed,Indian,India,5,1,1-2 times,"Amazon, Myntra"
+4c66966c-f109-4bd8-979e-8d08ee4b6692,b1215362-ebe0-4d15-b54b-5b79916c04f7,2025-11-10 21:30:08.291424+00,18-24,Male,High school or below,Student,American,United States,7,1,6-10 times,Google
+f228c0fe-b7a2-4a2c-bdfa-03d9952bbd17,e483224e-1a8b-49ed-8bd7-42e5478ff6b0,2025-11-10 16:23:35.486984+00,18-24,Female,High school or below,Student,greek Italian,germany,5,1,6-10 times,"google, amazon"
+abd87f45-4900-4e18-9b7b-362f432c99f6,9e7360ab-bdd9-40a7-a7f1-83fa542060b0,2025-11-10 15:26:02.702489+00,25-34,Male,Master's degree,Student,Indonesia,America,7,1,1-2 times,Google
+2e695c65-48c8-4191-87ce-8168b36d2314,1b76fc54-4a3b-44d3-a5b2-4211bebdb5d2,2025-11-10 13:55:30.214759+00,18-24,Female,High school or below,Unemployed,Albanian,Albania,6,1,More than 10 times,Google
+6933649b-587d-49ac-8b9f-30947efdcf26,ca9b0948-8403-4218-8775-d36126f6cb02,2025-11-09 13:33:35.324199+00,Under 18,Female,High school or below,Student,test,test,1,1,0 times,test
+55294489-a44a-4c6f-ae33-d085fa65ee19,2c298a5e-7070-4fd7-a6fe-ff3907029e8c,2025-11-09 12:16:32.457866+00,18-24,Male,High school or below,Student,Bulgarian,Germany,6,1,6-10 times,"Amazon, price comparison sites, Kleinanzeigen"
+fa16fa09-75e5-48eb-afa7-86d83a3dffb4,21121fd2-00ef-4b2a-974f-823f26f3f7fd,2025-11-08 13:23:39.098267+00,18-24,Female,Bachelor's degree,Employed,Russian,Germany,5,1,More than 10 times,"Google, Idealo, official websites of stores"
+a45f022f-7003-4d4d-a109-8d1a65b2dd8f,090b95b5-f52a-4e45-8665-1cc819388638,2025-11-07 15:02:50.369086+00,18-24,Male,Bachelor's degree,Other,Syrian,Germany,6,1,More than 10 times,Chatgpt
+147ec645-dcb6-472a-a996-ad030e086d1b,dae39537-13a5-45a3-ae49-4dbd155f0de2,2025-11-07 13:53:00.078259+00,18-24,Male,Master's degree,Student,Turkish,Germany,7,1,6-10 times,"Google, amazon"
+70199aeb-0f56-48c1-a1c6-73ebbca77b8b,47ead152-a4ca-406f-b621-4baca17ac0b0,2025-11-07 13:52:59.09671+00,25-34,Male,Master's degree,Employed,Turkish,Germany,7,4,More than 10 times,Versus.com
+63be650a-84a9-4b98-8830-954148e95404,05d6363b-4f7a-47b5-a91e-8f9a45d3bf07,2025-11-07 13:23:53.965032+00,18-24,Female,Master's degree,Student,German,"Germany ",6,4,6-10 times,Google
+8232d73c-7527-488d-a5a4-8bd6bbc6ac95,157bcbd1-0270-41ee-af9a-4211ed21ea7c,2025-11-07 13:09:23.856125+00,18-24,Female,Bachelor's degree,Employed,Iranian,Germany,7,1,More than 10 times,Chatgpt
+619781fb-64a2-4ede-89e7-1aaa6edc8853,95a96e83-18a8-47ad-919e-faee2ccf6d1d,2025-11-07 13:07:22.990632+00,25-34,Female,Master's degree,Student,China,Germany,6,6,More than 10 times,rednote
+7931724c-d393-4c73-97b0-4a4d1280f836,0a4d4062-b718-43a8-a9be-95af5db59952,2025-11-07 12:41:14.25161+00,25-34,Female,Master's degree,Student,Taiwan,Germany,6,1,3-5 times,Shoppee
+c5dc2960-a664-4dbb-b772-0738a851776e,9564f18a-c8b4-4a93-aca4-c46a4331ad97,2025-11-07 08:21:12.416491+00,18-24,Male,High school or below,Student,Sri Lankan,Germany,5,1,More than 10 times,"Amazon "
+c63d09de-5e64-4b07-81ef-36354cba45e1,b4dc7adf-e8db-4728-b4e3-9581f9be6651,2025-11-06 16:00:53.911339+00,25-34,Male,Master's degree,Student,Iran,Germany,7,6,More than 10 times,"Amazon, Google"
+ea901f92-7250-4793-ad43-fd58ed8aacb6,362abfda-95f5-4779-ae87-183a8cb959cd,2025-11-04 23:32:40.831171+00,25-34,Male,Bachelor's degree,Student,Türkiye,Germany,7,1,6-10 times,Price comparision sites
+65b4d34b-cbb4-4fc5-b117-6fe72f082fcc,18b17697-3a40-4604-ba57-75c836a01401,2025-11-04 17:32:16.188741+00,35-44,Female,Master's degree,Student,Iran,Germany,6,1,More than 10 times,"Google "
+0dc85263-6f97-4221-9e54-fe3f32523ede,bfa88b12-3ef7-44b4-b63a-edfae1b18d71,2025-11-04 16:19:47.454624+00,25-34,Female,Bachelor's degree,Student,"Chinese ","Germany ",5,1,More than 10 times,"Google "
+3080f0eb-2b10-4006-8a94-6d935b24d8bb,25b4d886-f5c7-461e-864f-52ea2e3c01b7,2025-11-04 16:14:17.573389+00,25-34,Female,Bachelor's degree,Student,"Chinese ","Germany ",5,1,More than 10 times,"Goggle "
+07935242-beb2-42c9-ae05-6e9cb6b87e0a,1cde5bc6-87ef-4a39-87da-3e93c51cfffa,2025-11-03 20:47:28.319473+00,18-24,Female,Bachelor's degree,Student,Turkish,Germany,5,1,3-5 times,Google and Amazon
+f9dff9c4-281b-4d28-b476-f45838b6015b,b9fede00-231a-4c78-8324-6691b1533caf,2025-11-03 20:44:12.55231+00,18-24,Male,Bachelor's degree,Student,Israeli,Germany,7,1,More than 10 times,"Amazon, chatgpt(to do research on the product), the official website of a product, googld shopping"
+98df6788-d01e-427d-b76f-a92c45c8ebbe,a7128b4a-e209-487c-844d-c485ecac85ec,2025-11-03 20:38:26.244612+00,18-24,Male,High school or below,Student,"German ",Germany,6,1,More than 10 times,Google
+bc852c32-0a5e-402e-8907-59a541705f92,b9fede00-231a-4c78-8324-6691b1533caf,2025-11-03 20:37:59.99122+00,18-24,Male,Bachelor's degree,Student,Israeli,Germany,7,1,More than 10 times,"Amazon, chatgpt(to do research on the product), the official website of a product"
+85d2f6cf-d78b-42a9-815e-4962c0f6b3ef,a543481c-04cb-4b98-a616-eaf896f1df99,2025-11-03 18:25:19.399219+00,25-34,Female,Master's degree,Employed,German,Germany,7,1,More than 10 times,"Google "
+58c2fa94-9f7a-4f3c-bd64-ece40a3df95a,cb9660a8-d526-4241-8700-235ce3e07153,2025-11-03 17:55:52.373323+00,25-34,Female,Bachelor's degree,Student,Indian,Germany,7,1,More than 10 times,"Google "
+aa8d4a71-7c08-429b-8221-f72ed2f64a86,386be8d7-6771-4885-8745-e30399b113d0,2025-11-03 16:14:58.916738+00,25-34,Male,Master's degree,Self-employed,German,Germany,7,7,More than 10 times,Google
+2a96351d-c624-4094-85dc-a1fb192267ab,65b3eb27-49b3-4605-b774-276b013b86af,2025-11-02 19:20:06.576107+00,35-44,Male,Master's degree,Employed,KE,DE,5,4,More than 10 times,"Google "
+c2ae5b6d-8e56-4e11-9509-1648242e5f62,93f5f60a-cfa4-474d-b6e2-c6b860392ea2,2025-10-31 14:52:32.146171+00,18-24,Male,High school or below,Student,Taiwan,Germany,6,1,6-10 times,GOOGLE
+4ff6611c-5793-46d4-9e30-819f40e92f59,e9a313e1-1c7e-4546-9f45-cb2354489190,2025-10-31 14:26:35.4956+00,18-24,Male,Bachelor's degree,Student,Turkish,Germany,7,1,More than 10 times,"Google, Gemini, Amazon"
+9f9be9fc-3fcf-4b31-b161-7b99edd619a6,a65764e7-9c2f-4219-aa12-fd54da7bf875,2025-10-31 14:16:21.529129+00,25-34,Female,Master's degree,Student,Taiwan,Germany,7,1,More than 10 times,Google
+4113abc8-6686-4832-910f-0f4f9071625b,145a5e3a-5d68-4457-9cc1-eaffd6662734,2025-10-31 14:00:25.968728+00,18-24,Female,Master's degree,Student,Ecuador,Germany,7,7,6-10 times,Google
+63a6251f-59a1-4afb-943a-c3f91387da75,de565c32-62e7-4659-92f7-bfd80fc0a61c,2025-10-31 12:41:16.443021+00,25-34,Male,Bachelor's degree,Student,Mexican,"Germany ",7,1,6-10 times,Google
+bc5df6da-0a2c-41a0-872d-0b9abe62358e,248c1f6f-3b38-4411-a85c-8040a5a74f4d,2025-10-30 23:05:52.434875+00,25-34,Male,Master's degree,Student,Chinese,Germany,5,1,More than 10 times,"Doubao, red note, joybuy, Amazon"
+a94265d3-b56e-40e7-9d2f-f9956866a3aa,6e109541-c2ae-46ea-827a-edf44d67660e,2025-10-30 20:49:02.754266+00,18-24,Male,Master's degree,Student,Vietnam,Germany,7,1,More than 10 times,Gemini
+d1cd5ad2-a37d-44e3-b249-ddf3e9e40d11,ca0c9bac-e5be-4d79-af83-2c5358af9657,2025-10-30 20:08:38.885523+00,35-44,Male,Bachelor's degree,Unemployed,Ecuador,Germany,7,4,More than 10 times,Google
+afcf81f1-4cca-4ab3-bf3b-3ff101fe1049,5f62d87d-4912-454b-94d1-309c26c16b08,2025-10-30 19:22:03.361417+00,25-34,Male,Bachelor's degree,Student,Nepali,Germany,6,1,More than 10 times,Amazon
+bbba0d2c-f265-49b3-ad32-9ca9c70b6730,a9ea56d9-8f16-4706-8730-7759a9ae43ff,2025-10-30 17:59:58.652799+00,18-24,Male,Master's degree,Student,Chinese,Germany,7,1,More than 10 times,Google
+80b0a412-9d70-4528-964c-6e5ea19a0dad,8a704f7e-d8ff-41c4-9b3e-59fcd5f499cc,2025-10-30 16:34:49.98425+00,25-34,Female,Bachelor's degree,Student,Costa Rica,Germany,7,1,More than 10 times,"Google, Amazon, Temu"
+8fdc9470-a4b3-4ecb-b9e6-be58c3b866ec,e3906f27-0d64-4695-b478-d07d9f9944e2,2025-10-30 16:25:57.268468+00,25-34,Female,Bachelor's degree,Student,Costa Rica,Germany,7,1,More than 10 times,"Google, Amazon, Temu"
+dd47d7ec-2686-4b62-b5b7-1a823e5d2e51,0e8e279b-2364-4850-9f67-b682817f8378,2025-10-29 21:05:19.372164+00,25-34,Male,Master's degree,Employed,peruvian,Germany,6,1,6-10 times,amazon
+8ffbb178-2fd5-4fe9-adcf-fb222102b8a5,a717cf8d-04fb-4d2e-9005-e3829b9705e3,2025-10-29 12:07:01.342471+00,18-24,Female,Bachelor's degree,Student,italian,Italy,6,1,More than 10 times,"E commerce websites "
+fe1dd3e7-b8e6-480d-bb50-0f99a3c2baa7,5b4859df-ce8a-4d6c-976c-17e015c0ab03,2025-10-29 09:57:03.194714+00,45-54,Non-binary / Diverse,High school or below,Other,morocco,sweden,7,7,More than 10 times,ama
+12da4227-a210-401a-b9c3-9d1f2257899a,bc232730-8987-499f-ac01-65a3d46a68d4,2025-10-29 09:57:01.6419+00,18-24,Female,High school or below,Student,italia,"italy ",7,1,More than 10 times,google
+7822d6a5-b96f-4fed-8d43-6dd439603406,8f4c485a-b7af-4a2e-b44c-83007bd7020c,2025-10-29 09:56:17.085684+00,18-24,Male,High school or below,Unemployed,italian,italy,7,4,3-5 times,google
+f97891c1-72b6-4f23-b4cf-eb62fc1d7122,1940263c-44df-4d4e-99cc-30f9f694a859,2025-10-29 09:54:03.493219+00,18-24,Male,High school or below,Student,"Italian ","Switzerland ",5,1,3-5 times,"Google "
+a8a258f3-004b-4733-8f30-a49309768d34,ad44d655-aa86-4cc8-a5ff-6e1687093ee0,2025-10-29 09:52:10.716982+00,18-24,Female,High school or below,Student,swiss,switzerland,6,4,More than 10 times,google
+9421439d-c8c9-42c2-89c3-63516ddaedc3,a8b5e575-2472-47c3-8623-fe5ad381b39c,2025-10-29 09:52:08.359663+00,18-24,Female,High school or below,Student,Swiss,Switzerland,7,4,More than 10 times,Google
+0fa88821-d7f3-4ec8-b978-2175c0ab7ddf,4e51268f-ba0f-459a-a8c3-75a70cebbbeb,2025-10-29 09:52:08.059948+00,18-24,Female,High school or below,Student,italy,"switzerland ",5,4,3-5 times,google
+4b2285fb-ddb1-4905-842b-63bbd2cf8c33,8fa47522-bb1b-49c2-989b-d90581264c2e,2025-10-29 09:51:30.414139+00,18-24,Female,High school or below,Student,Colombian,"Switzerland ",4,2,3-5 times,Amazon
+3fbc8361-637b-406c-b09e-049be9e02577,14ff50af-72a9-4095-a217-88246441fe94,2025-10-29 09:51:28.932127+00,18-24,Female,High school or below,Unemployed,swiss,Italy,4,4,1-2 times,goggle
+924a92cb-b977-40ce-9524-ba65a019e759,d41a0eb8-b8c5-4c22-84a8-69d22bb0ac72,2025-10-29 09:50:22.565241+00,18-24,Female,High school or below,Student,italian,switzerland,7,4,1-2 times,amazon
+74bd7021-ff19-41e5-b162-b02e683fc336,292cc3df-067b-4670-98da-afbf0b9839f6,2025-10-29 09:49:41.223684+00,18-24,Male,High school or below,Student,italy,italy,5,4,1-2 times,google
+6f84037b-e697-4098-98a9-aaf18581b497,922bc86b-cd31-4f8c-8888-2478c91fbeeb,2025-10-28 23:04:16.09786+00,18-24,Female,Bachelor's degree,Student,Chinese,Germany,6,1,More than 10 times,official apps of different shops
+ff0fa7e8-4be3-4a7a-a662-239de5141dfc,23f5a761-badc-4264-844b-aaa550c42188,2025-10-28 22:59:01.915914+00,18-24,Female,Bachelor's degree,Unemployed,Chinese,Germany,6,1,More than 10 times,official app for different shops
+4b4dfda2-80eb-42e0-9e8e-45143c678f4b,e755ba77-40fc-4737-b6f4-077633acb963,2025-10-28 18:38:09.634365+00,25-34,Female,Master's degree,Student,China,Germany,6,1,More than 10 times,Google Amazon
+bb58e3ef-57a5-483b-9bfc-2e60ffab4603,416d5225-0175-4c9d-964c-2998e2d7acb1,2025-10-28 17:59:33.672876+00,18-24,Male,Master's degree,Student,"Chinese ",Germany,6,6,6-10 times,Google
+28ffe5df-cd25-47b3-a8dd-dddb241932b5,db0f13bf-5f52-46fc-a6e4-9aa88bd1addf,2025-10-28 15:05:07.790875+00,18-24,Female,Bachelor's degree,Student,Indian,Germany,6,1,6-10 times,Google
+df614aea-5ad0-4b7b-b697-3051c2e75bb8,337cc878-f0b7-4807-9005-08dcc0228a6a,2025-10-27 17:45:52.130656+00,25-34,Male,Master's degree,Employed,Egypt,Germany,4,4,6-10 times,Google
+db089d46-6ca3-468b-9ab0-cbcb43a1f137,193a0563-b869-4bbe-aa9e-d81bacf59a3e,2025-10-27 16:20:34.930925+00,18-24,Female,Master's degree,Self-employed,Peruvian,Germany,7,1,More than 10 times,"Recommendations, tasks, efficiency, maths, programming, summaries "
+187e7a84-d039-4109-ba8b-6d1fa50d6b8f,41c0b6d2-f05f-4378-90a6-45c6fff68e44,2025-10-27 16:06:24.510676+00,Under 18,Female,High school or below,Student,Test,Test,5,1,0 times,Test
+f93f81f2-c73b-4100-aff6-0ae4926f0d95,25040da2-2cce-4925-9fbd-855669f4cb23,2025-10-27 15:45:01.967432+00,35-44,Male,Master's degree,Employed,Kenyan,"Germany ",4,1,0 times,"Google, Amazon"
+af9bacb6-df57-40f0-953f-8d39cf3cbafa,328a652b-9ad2-4b70-ad1a-49a8f1fcc02d,2025-10-27 14:38:02.056888+00,18-24,Male,Master's degree,Employed,Iranian,Germany,6,1,More than 10 times,"Amazon, Instagram Links, Google"
+ad0376fa-1de0-491f-9b5a-f8a67a637074,5210feaa-5c2a-4444-b912-dc52d88c72c5,2025-10-27 13:12:33.301455+00,18-24,Male,Master's degree,Student,Uzbek,Germany,7,1,More than 10 times,Google
+9d4fb5ca-b80a-4285-b269-62567c628018,5210feaa-5c2a-4444-b912-dc52d88c72c5,2025-10-27 13:11:06.810905+00,18-24,Male,Master's degree,Student,Uzbek,Germany,7,7,More than 10 times,Google
+f6b5d91e-a9f1-4951-ac17-815ccff4f986,b7a9b5f0-50fe-47ea-ac8a-f6ef1df7ba72,2025-10-27 12:43:59.653521+00,35-44,Male,High school or below,Employed,German,Germany,3,4,3-5 times,Google
+ecf55c7e-51af-4ef9-b091-0bb4060dd043,b43e4bd1-d8cb-4284-9079-1ff9f84146b4,2025-10-27 12:31:35.326865+00,25-34,Male,Master's degree,Student,Indonesian,Heilbronn,7,1,More than 10 times,"Amazon, Temu, Aliexpress"
+f855cbc8-0d8f-4f60-991c-64e603592c4b,faab30af-69f5-4422-bab2-0387d01d8765,2025-10-27 11:47:17.108451+00,18-24,Male,Bachelor's degree,Student,Indian,"Germany ",7,1,More than 10 times,Google
+d0af66fb-60f1-4fc8-9b46-78352b368b38,5ce7762a-639c-456b-9482-8f3d2c2094f9,2025-10-27 11:25:17.939291+00,18-24,Female,Master's degree,Self-employed,China,Germany,7,1,More than 10 times,No specific tools
+2e6ad1e2-b545-47b0-875b-6fa497e446b2,bb7758ff-4018-4589-9209-4c9d1cfb3556,2025-10-27 11:16:02.785036+00,18-24,Female,Bachelor's degree,Employed,German,"Germany ",7,1,More than 10 times,Amazon or Google
+c5974914-6fe0-40e8-b734-168184eb6976,b51cd978-3b59-467f-9fe1-1d7eaa10caa6,2025-10-25 17:34:08.279281+00,18-24,Female,Bachelor's degree,Student,Turkish,Germany,6,1,More than 10 times,"Google, Amazon"
+9ceeb742-e62e-4544-8bd6-b9d50cd50aea,52ff75e1-7e1d-449f-9351-5123c7108a6c,2025-10-25 08:45:45.014379+00,35-44,Non-binary / Diverse,Bachelor's degree,Self-employed,T,R,5,5,3-5 times,Gi
+946a0c7b-4f51-46d4-9716-6f1d9f2e47bc,54f85d8d-cee9-4fb0-babc-124951e8bb0b,2025-10-24 17:39:19.473371+00,25-34,Female,Master's degree,Student,CN,DE,5,1,More than 10 times,Amazon
