@@ -1,0 +1,26 @@
+cluster,cluster_theme,global_index,similarity_to_centroid,rank,query_text
+0,Samsung / Galaxy S-series,2,0.936123788356781,1,samsung s25
+0,Samsung / Galaxy S-series,25,0.8907362222671509,2,samsung s25 ultra
+0,Samsung / Galaxy S-series,33,0.8400329351425171,3,samsung s25 ultra review
+0,Samsung / Galaxy S-series,12,0.8379664421081543,4,Samsung Galaxy S24 FE buy
+0,Samsung / Galaxy S-series,119,0.8341381549835205,5,Samsung galaxy s23
+1,iPhone models & releases,0,0.9284590482711792,1,iphone 15
+1,iPhone models & releases,76,0.9197615385055542,2,iphone 17
+1,iPhone models & releases,125,0.9122051000595093,3,iphone 16
+1,iPhone models & releases,62,0.8974496126174927,4,Apple iphone 17
+1,iPhone models & releases,114,0.8882362246513367,5,Iphone 14
+2,Best-of & budget picks (2025),80,0.8704876899719238,1,Best budget smartphones 2025
+2,Best-of & budget picks (2025),34,0.8703972101211548,2,Cheap smartphones
+2,Best-of & budget picks (2025),118,0.8340439200401306,3,Smartphone
+2,Best-of & budget picks (2025),109,0.8257820010185242,4,Best smartphones 2025
+2,Best-of & budget picks (2025),8,0.8229337930679321,5,Smartphone 300€
+3,Price-targeted queries,96,0.9051547050476074,1,smartphones under 799 euro
+3,Price-targeted queries,26,0.8132351636886597,2,buying iphone under 800 euro
+3,Price-targeted queries,124,0.7801558375358582,3,best iphone for under 700 euros
+3,Price-targeted queries,48,0.757168173789978,4,phone 150 euro
+3,Price-targeted queries,88,0.7401992678642273,5,phone under 800 euro
+4,Product comparison and shopping,38,0.821570098400116,1,phones
+4,Product comparison and shopping,126,0.7984625697135925,2,fairphone 5
+4,Product comparison and shopping,5,0.7981037497520447,3,phone
+4,Product comparison and shopping,15,0.7647894620895386,4,fairphone 5 buy
+4,Product comparison and shopping,75,0.7520051002502441,5,latest phones
