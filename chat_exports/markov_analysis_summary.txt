@@ -1,0 +1,41 @@
+======================================================================
+MARKOV CHAIN ANALYSIS SUMMARY
+======================================================================
+
+1. TRANSITION PROBABILITY MATRIX
+----------------------------------------------------------------------
+                   Broad/exploratory  Price-focused  Feature-focused  Brand/model  Meta/strategy
+Broad/exploratory              0.500          0.267            0.133        0.033          0.067
+Price-focused                  0.361          0.389            0.083        0.139          0.028
+Feature-focused                0.133          0.333            0.267        0.267          0.000
+Brand/model                    0.231          0.385            0.077        0.231          0.077
+Meta/strategy                  0.750          0.250            0.000        0.000          0.000
+
+2. STARTING INTENT (First query of each session)
+----------------------------------------------------------------------
+  [0] Broad / exploratory                :  33.3%
+  [1] Price-constraints                  :  40.0%
+  [2] Feature-focused                    :  13.3%
+  [3] Brand/model comparisons            :  13.3%
+
+3. ENDING INTENT (Last query of each session)
+----------------------------------------------------------------------
+  [0] Broad / exploratory                :  46.7%
+  [1] Price-constraints                  :  33.3%
+  [2] Feature-focused                    :   6.7%
+  [3] Brand/model comparisons            :  13.3%
+
+4. KEY INSIGHTS
+----------------------------------------------------------------------
+
+Strongest self-loops (staying in same intent):
+  Broad/exploratory        : 50.0%
+  Price-focused            : 38.9%
+  Feature-focused          : 26.7%
+
+Top cross-intent transitions:
+  Meta/strategy → Broad/exploratory: 75.0%
+  Brand/model → Price-focused: 38.5%
+  Price-focused → Broad/exploratory: 36.1%
+  Feature-focused → Price-focused: 33.3%
+  Broad/exploratory → Price-focused: 26.7%

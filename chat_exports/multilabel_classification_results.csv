@@ -1,0 +1,144 @@
+prompt,multi_labels,label_0_broad_exploratory,label_1_price-constraints,label_2_feature-focused,label_3_brand/model_comparisons,label_4_meta_strategy_explanation,label_names
+What is a realistic phone when it comes to cost to quality ratio,"[1, 2]",0,1,1,0,0,Price-constraints | Feature-focused
+What phones are currently available on the market gives me good results for not too much money?,[1],0,1,0,0,0,Price-constraints
+give me prices in euros,[0],1,0,0,0,0,Broad / exploratory
+give the lowest price you can find for the apple Iphone 17 pro max and a link to buying it,[1],0,1,0,0,0,Price-constraints
+"no, i mean tell me about (for the phones you mentionned above, and compare and contrast them for best overall): Brand and model, Storage capacity (optional), Color (optional), Lowest price you found, Link to the shopping website","[0, 1, 2, 3, 4]",1,1,1,1,1,Broad / exploratory | Price-constraints | Feature-focused | Brand/model comparisons | Meta / strategy / explanation
+tell me about: Brand and model Storage capacity (optional) Color (optional) Lowest price you found Link to the shopping website,"[1, 2, 4]",0,1,1,0,1,Price-constraints | Feature-focused | Meta / strategy / explanation
+"between these models: Xiaomi Poco X7 Pro, Xiaomi Redmi Note 14 Pro 5G, Motorola Moto G86 5G, Samsung Galaxy A15 5G and Xiaomi Redmi Note 13, which one has the best camera, which one can last longe and which one have the worst comment in forums","[2, 3, 4]",0,0,1,1,1,Feature-focused | Brand/model comparisons | Meta / strategy / explanation
+give me a link to buy Xiaomi Poco X7 Pro,[0],1,0,0,0,0,Broad / exploratory
+give me smartphone models with a price below 299 euros that can be purchased in Germany with the highest price-to-quality ratio,"[1, 2]",0,1,1,0,0,Price-constraints | Feature-focused
+give me the technical details for Xiaomi Poco X7 Pro,[0],1,0,0,0,0,Broad / exploratory
+Give me the link for the 399 offer,[0],1,0,0,0,0,Broad / exploratory
+"I want the following smartphone, cheap, very good memory capacity, and good camera resulition","[1, 2]",0,1,1,0,0,Price-constraints | Feature-focused
+"I want the google pixel 9a give me please the Color avavilables, the best price and a website where I can find it at is cheapest",[1],0,1,0,0,0,Price-constraints
+"I want the google pixel 9a give me please the Color avavilables, the best price and a website where I can find it at is cheapest",[1],0,1,0,0,0,Price-constraints
+Smartphones,[0],1,0,0,0,0,Broad / exploratory
+I meant which of the phones you listed above you recommend?,[0],1,0,0,0,0,Broad / exploratory
+"I need a phone around 700, I do not care if it is second-handed. But I want it clean, having a lot RAM, and a good CPU. What would be your recommendations with specific  characterictics and configs for this?",[2],0,0,1,0,0,Feature-focused
+"Now, compare the cameras of these phone. which one takes better selfies?","[3, 4]",0,0,0,1,1,Brand/model comparisons | Meta / strategy / explanation
+"all in all, which one do you recommend?",[4],0,0,0,0,1,Meta / strategy / explanation
+"compare the batteries, which one do you recomend? I dont wnat to charge my phone regularly","[2, 3, 4]",0,0,1,1,1,Feature-focused | Brand/model comparisons | Meta / strategy / explanation
+which ones do you recommend for gaming?,[2],0,0,1,0,0,Feature-focused
+compare iphone 6 and 7,[3],0,0,0,1,0,Brand/model comparisons
+What is the best smartphone ever?,[0],1,0,0,0,0,Broad / exploratory
+"Search for smartphones that have an excellent price-to-quality ratio, with a very good, high-level camera, great efficiency, and a long-lasting battery. I want you to compare prices among the brands and models you find. Take into account the recommendations from people who have purchased or used them.","[1, 2, 3]",0,1,1,1,0,Price-constraints | Feature-focused | Brand/model comparisons
+iPhone 17 ,[0],1,0,0,0,0,Broad / exploratory
+"I also need 2 sim cards, a good camera, a good memory and i dont want the phone to be too bşg",[2],0,0,1,0,0,Feature-focused
+"I also need 2 sim cards, a good camera, a good memory and i dont want the phone to be too bşg",[2],0,0,1,0,0,Feature-focused
+I am in need of a new smartphone since my current phone is almost dying as it has no memory left. I am a person who likes quality but it does not have ,[2],0,0,1,0,0,Feature-focused
+Thank you that was quite helpful,[0],1,0,0,0,0,Broad / exploratory
+Find the store with lowest price for Iphone 17 Pro 256 Deep Blue in Germany,[1],0,1,0,0,0,Price-constraints
+Find the store with lowest price for Iphone 17 Pro 256 Deep Blue in Germany,[1],0,1,0,0,0,Price-constraints
+Give me the link for IPhone 17 Pro Deep Blue 256GB. I want to buy directly from Apple in Germany ,[0],1,0,0,0,0,Broad / exploratory
+Price for IPhone 17 pro 256GB in Deep Blue,[1],0,1,0,0,0,Price-constraints
+Price for IPhone 17 pro 256GB in Deep Blue,[1],0,1,0,0,0,Price-constraints
+Price for IPhone 17 pro 256GB in Deep Blue,[1],0,1,0,0,0,Price-constraints
+Real competitors to Apple IPhone 17,[0],1,0,0,0,0,Broad / exploratory
+Storage capacity and available colors for IPhone 17 Pro,[2],0,0,1,0,0,Feature-focused
+What is the price if I order from Apple this configuration? ,[1],0,1,0,0,0,Price-constraints
+How much is the latest bigme hibreak pro color,[1],0,1,0,0,0,Price-constraints
+iPhone ,[0],1,0,0,0,0,Broad / exploratory
+Apple iPhone refurbished,[0],1,0,0,0,0,Broad / exploratory
+IPhone 13,[0],1,0,0,0,0,Broad / exploratory
+Which is the best value iPhone to buy now,[1],0,1,0,0,0,Price-constraints
+What is price of Iphone now?,[1],0,1,0,0,0,Price-constraints
+"What phone would you suggest, something that does not break the bank, has good battery life and good camera",[2],0,0,1,0,0,Feature-focused
+What smartphone has the longest battery?,[2],0,0,1,0,0,Feature-focused
+best Smartphones under 800,[1],0,1,0,0,0,Price-constraints
+from idealo,[0],1,0,0,0,0,Broad / exploratory
+nothing phone vs pixel 9a,[3],0,0,0,1,0,Brand/model comparisons
+s25 buy,[0],1,0,0,0,0,Broad / exploratory
+s25 idealo,[0],1,0,0,0,0,Broad / exploratory
+s25 prices,[0],1,0,0,0,0,Broad / exploratory
+which is more of a compact phone,[0],1,0,0,0,0,Broad / exploratory
+Hi tell me about the best phones i can buy with more than 800 euros,"[1, 4]",0,1,0,0,1,Price-constraints | Meta / strategy / explanation
+"i also want the iphone to be 256 gigs and pro version, above 800 euros",[1],0,1,0,0,0,Price-constraints
+"i prefer the apple interface since i use a mac and its easier to connect, what models do u recommend now",[0],1,0,0,0,0,Broad / exploratory
+im looking for phones only,[4],0,0,0,0,1,Meta / strategy / explanation
+"only iphones , tell me the colors and give me some price preferences for each model","[1, 4]",0,1,0,0,1,Price-constraints | Meta / strategy / explanation
+I want the iphone 17 ,[0],1,0,0,0,0,Broad / exploratory
+What is the best smartphone in the high price range,[1],0,1,0,0,0,Price-constraints
+which color do I get the iphone 17 in?,[0],1,0,0,0,0,Broad / exploratory
+which dark color?,[0],1,0,0,0,0,Broad / exploratory
+can you give me some recommendations about phones?,[0],1,0,0,0,0,Broad / exploratory
+can you provide prices of 15 pro natural titanium 256 in germany app store and amazon and compare prices ,[3],0,0,0,1,0,Brand/model comparisons
+lets find 15 pro new with natueral color 256 gb storage. i only need new one and preferably on warrant ,[2],0,0,1,0,0,Feature-focused
+suppose you are professional tech reviewer and you need to choose good fitting phoe for my needs. ,[0],1,0,0,0,0,Broad / exploratory
+"Find me a smart phone priced about 150-200 euro, with a good processing speed, good capacity/storage","[1, 2]",0,1,1,0,0,Price-constraints | Feature-focused
+"I want a recommendation on phone, budget max. 800 euro. I want to take good pictures, 256G min storage, show me the price of different phoneoptions","[1, 2, 4]",0,1,1,0,1,Price-constraints | Feature-focused | Meta / strategy / explanation
+"I want iPhone 16 only, not other model. show me the link to the lowest channel",[0],1,0,0,0,0,Broad / exploratory
+"I want iPhone 16 only, not other model. show me the link to the lowest channel",[0],1,0,0,0,0,Broad / exploratory
+google and show me all possible buying options of Iphone 16,[0],1,0,0,0,0,Broad / exploratory
+Give me a list of current android smartphones in market right now. Make sure it has the latest Snapdrahon chipped and a 3 camera system.,[2],0,0,1,0,0,Feature-focused
+"how much for iphone 14, is it better than ip 13 compare w price","[1, 3]",0,1,0,1,0,Price-constraints | Brand/model comparisons
+Pixel9a vs Samsung S23,[3],0,0,0,1,0,Brand/model comparisons
+Smart phone under £299,[1],0,1,0,0,0,Price-constraints
+Which smart phone is the best for photos?,[3],0,0,0,1,0,Brand/model comparisons
+Which smart phone under £299 is best for photos ,"[1, 3]",0,1,0,1,0,Price-constraints | Brand/model comparisons
+used iphone,[0],1,0,0,0,0,Broad / exploratory
+the motorola has better support than Xiaomi?,[0],1,0,0,0,0,Broad / exploratory
+what is the price for this 2 options?,[1],0,1,0,0,0,Price-constraints
+"what smartphone do you recommend that is around 150 euros, that has good quality","[1, 2]",0,1,1,0,0,Price-constraints | Feature-focused
+"what smartphone do you recommend that is around 150 euros, that has good quality","[1, 2]",0,1,1,0,0,Price-constraints | Feature-focused
+give me a number,[0],1,0,0,0,0,Broad / exploratory
+how about the comments,[0],1,0,0,0,0,Broad / exploratory
+i mean review or feedback from who bought,[0],1,0,0,0,0,Broad / exploratory
+"i wanna buy a smartphone, it must be green and at least 1 t, pls help me fid the best one and price is below 449, pls search for the best price",[1],0,1,0,0,0,Price-constraints
+search for the best price and give me the link,[1],0,1,0,0,0,Price-constraints
+tell me more about **Nothing Phone (3a)**,[4],0,0,0,0,1,Meta / strategy / explanation
+what is the lowset price,[1],0,1,0,0,0,Price-constraints
+smartphone,[0],1,0,0,0,0,Broad / exploratory
+Can you tell me some information about new iPhone ,[4],0,0,0,0,1,Meta / strategy / explanation
+Give me some suggestions for buying a new phone ,[0],1,0,0,0,0,Broad / exploratory
+Hi,[0],1,0,0,0,0,Broad / exploratory
+Where can I buy it,[0],1,0,0,0,0,Broad / exploratory
+Which colour and capacity do they have?,[0],1,0,0,0,0,Broad / exploratory
+What are the best value smartphones for 200€,"[0, 1]",1,1,0,0,0,Broad / exploratory | Price-constraints
+i want to have high performing battery and good camera and want to buy the smartphone with 12 months installments,[2],0,0,1,0,0,Feature-focused
+"provide a detailed comparison on different aspect between Google Pixel 8 Pro, Samsung Galaxy /S25 Ultra and Xiaomi 15 Ultra",[3],0,0,0,1,0,Brand/model comparisons
+what smartphone do you suggest with budget between 500 and 1000 euros,[1],0,1,0,0,0,Price-constraints
+where can i buy Galaxy S25 Ultra with the best price/offer?,[1],0,1,0,0,0,Price-constraints
+What is the best smartphone?,[0],1,0,0,0,0,Broad / exploratory
+Middle class smartphone comparison,[3],0,0,0,1,0,Brand/model comparisons
+Provide that link to mobile shop for the Google pixel 9a please,[0],1,0,0,0,0,Broad / exploratory
+Since the top recommendation is the Google pixel 9a find a supplier within Europe with cheap prize and delivery ,"[1, 4]",0,1,0,0,1,Price-constraints | Meta / strategy / explanation
+How would you rate the phones based on performance?,[2],0,0,1,0,0,Feature-focused
+What are the price for the best apple phone and what are the color options and the storage,"[0, 1, 2]",1,1,1,0,0,Broad / exploratory | Price-constraints | Feature-focused
+What is the newest Modell,[0],1,0,0,0,0,Broad / exploratory
+Which has the most storage?,[2],0,0,1,0,0,Feature-focused
+Which is reviewed the best for the camera?,[2],0,0,1,0,0,Feature-focused
+Latest Samsung smartphones,[0],1,0,0,0,0,Broad / exploratory
+What is the difference between S24 and S25 in terms of feature,"[2, 3]",0,0,1,1,0,Feature-focused | Brand/model comparisons
+What is the price difference? ,[1],0,1,0,0,0,Price-constraints
+What is the price of S24 black,[1],0,1,0,0,0,Price-constraints
+What is the price of S24 black,[1],0,1,0,0,0,Price-constraints
+"I need a smartphone under 600 euros, I am using iphone 15 pro right now and I like it, so I want something similar but cheaper. I want a good camera. big stora","[1, 2]",0,1,1,0,0,Price-constraints | Feature-focused
+Motorola Edge 60 Pro. What storage options does this one have and for what prices?,[2],0,0,1,0,0,Feature-focused
+I'm not interested on Pixel 9a I want the most premium phones give the prices of these phones ,[0],1,0,0,0,0,Broad / exploratory
+Provide with videos about these phones,[0],1,0,0,0,0,Broad / exploratory
+Which are the storage capacity for these phones and the camera features ,"[0, 2]",1,0,1,0,0,Broad / exploratory | Feature-focused
+Which is the smarthphone with better features and a good trade-off between price and characteristics available in the market ,[1],0,1,0,0,0,Price-constraints
+Give me options for a new Iphone and tell about the prices and fuctions,[0],1,0,0,0,0,Broad / exploratory
+i also want to see iphones 14 and 15,[0],1,0,0,0,0,Broad / exploratory
+what is the best but cheap phone,[1],0,1,0,0,0,Price-constraints
+How much is it(256GB),[1],0,1,0,0,0,Price-constraints
+I’m looking for a smartphone with iOS system and better visual performance ,"[2, 4]",0,0,1,0,1,Feature-focused | Meta / strategy / explanation
+Could you compare prices too. I need the best price for quality one,"[1, 2, 3]",0,1,1,1,0,Price-constraints | Feature-focused | Brand/model comparisons
+For 1 TB version and Black?,[0],1,0,0,0,0,Broad / exploratory
+For Galaxy S25 ultra what is the reliable lowest price in the market in Germany,[1],0,1,0,0,0,Price-constraints
+How much euros is 1199 usd,[1],0,1,0,0,0,Price-constraints
+How much is the 1TB titanium Black,[1],0,1,0,0,0,Price-constraints
+I need a new flagship phone which has a great sensor and a camera. It should have one of the biggest screen on the market and the brand should be a reliable one. I need it to be delivered to Germany with regulations accordingly. I like easy UI and UX sand the phone should have at least 256GB of storage,"[1, 2]",0,1,1,0,0,Price-constraints | Feature-focused
+I need it in euros,[0],1,0,0,0,0,Broad / exploratory
+Provide me the prices for these phones,[0],1,0,0,0,0,Broad / exploratory
+Where can i find the cheapest titanium black 1 tb titanium black Samsung Galaxy S25 Ultra in Germany?,[0],1,0,0,0,0,Broad / exploratory
+Where can i find the cheapest titanium black 1 tb titanium black Samsung Galaxy S25 Ultra?,[0],1,0,0,0,0,Broad / exploratory
+Are any of those options in my price range? Below 300 euro?,[1],0,1,0,0,0,Price-constraints
+Can you provide a link to Xiaomi phone with that price and the model name?,[1],0,1,0,0,0,Price-constraints
+What has the best camera?,[2],0,0,1,0,0,Feature-focused
+What about the Pixel 9 vs older models?,[3],0,0,0,1,0,Brand/model comparisons
+What is the best smartphone for my budget that is reliable and has good features? Find me the best 3 or 4 to compare.,"[1, 3]",0,1,0,1,0,Price-constraints | Brand/model comparisons
+Show me smartsphone which are in my budget and give me comprehensive analysis of the pros and cons. Don't  select  any bad phone according to reviews,"[0, 1]",1,1,0,0,0,Broad / exploratory | Price-constraints
+"i am a gen z that is currently in the apple ecosystem (mac, ipad, apple watch, airpods, iphone) which phone model would be the best for me rn my phone is running out of syotage and very outdated i am using the 12pro right now, should i wait for the 18 or just take the 16?  since 17 is very bad i dont think its for me","[3, 4]",0,0,0,1,1,Brand/model comparisons | Meta / strategy / explanation
+in euros? iphone 16 pro price,[1],0,1,0,0,0,Price-constraints

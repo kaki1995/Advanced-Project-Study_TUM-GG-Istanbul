@@ -1,0 +1,50 @@
+======================================================================
+MULTI-LABEL CLASSIFICATION SUMMARY
+======================================================================
+
+1. LABEL DISTRIBUTION
+----------------------------------------------------------------------
+  [0] Broad / exploratory                :    56 ( 39.2%)
+  [1] Price-constraints                  :    57 ( 39.9%)
+  [2] Feature-focused                    :    35 ( 24.5%)
+  [3] Brand/model comparisons            :    19 ( 13.3%)
+  [4] Meta / strategy / explanation      :    15 ( 10.5%)
+
+2. LABELS PER PROMPT
+----------------------------------------------------------------------
+  Average: 1.27
+  Min: 1
+  Max: 5
+
+3. TOP 10 LABEL COMBINATIONS
+----------------------------------------------------------------------
+  [0]                  →    51 ( 35.7%)
+    Broad / exploratory
+
+  [1]                  →    35 ( 24.5%)
+    Price-constraints
+
+  [2]                  →    16 ( 11.2%)
+    Feature-focused
+
+  [1, 2]               →     8 (  5.6%)
+    Price-constraints + Feature-focused
+
+  [3]                  →     8 (  5.6%)
+    Brand/model comparisons
+
+  [4]                  →     4 (  2.8%)
+    Meta / strategy / explanation
+
+  [1, 3]               →     3 (  2.1%)
+    Price-constraints + Brand/model comparisons
+
+  [1, 4]               →     3 (  2.1%)
+    Price-constraints + Meta / strategy / explanation
+
+  [1, 2, 4]            →     2 (  1.4%)
+    Price-constraints + Feature-focused + Meta / strategy / explanation
+
+  [2, 3, 4]            →     2 (  1.4%)
+    Feature-focused + Brand/model comparisons + Meta / strategy / explanation
+
