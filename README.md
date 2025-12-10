@@ -18,6 +18,7 @@ The study uses logged behavioral data, NLP methods, regression analysis, and Mar
 
 **🧪 Experiment
 **
+
 Between-subjects: participants randomly assigned to Google or Perplexity
 
 Task: Find and evaluate smartphones under budget constraints
@@ -28,6 +29,7 @@ Additional layer: Google Trends API for external validation
 
 **📂 Repository Structure
 **
+
 data/               # Raw & processed datasets  
 notebooks/          # Analysis notebooks (cleaning, regression, NLP, Markov)  
 src/                # Preprocessing, classifiers, embeddings, clustering  
@@ -36,6 +38,7 @@ requirements.txt
 
 **📈 Key Findings
 **
+
 Perplexity users finished searches 67% faster
 
 They submitted more complex, natural language prompts
@@ -48,6 +51,7 @@ Google rated more trustworthy, Perplexity rated faster & more convenient
 
 **🧠 Methods
 **
+
 Regex-based multi-label intent classifier
 
 OpenAI embeddings + KMeans clustering
@@ -60,6 +64,7 @@ Sentiment analysis using GPT-4o-mini
 
 **🔮 Future Directions
 **
+
 Longitudinal studies on conversational search adoption
 
 Real purchase behavior integration
@@ -70,5 +75,6 @@ Trust calibration techniques (citations, confidence cues)
 
 **🤝 Team
 **
+
 Yen Vu Thi Ngoc • Rui Liu • Hande Gürsoy
 Supervisors: Prof. Dr. Jochen Hartmann & Jan Ole Krugmann
